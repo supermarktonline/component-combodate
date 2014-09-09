@@ -1,0 +1,1 @@
+Component-package for Combodate: http://vitalets.github.io/combodate/

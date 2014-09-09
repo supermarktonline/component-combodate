@@ -1,0 +1,13 @@
+{
+    "name": "component-combodate",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": [
+        "index.js"
+    ],
+    "dependencies": {
+        "component/jquery": "*",
+        "moment/moment": "2.8.3"
+    },
+    "repository": "triscel/component-combodate"
+}
