@@ -491,4 +491,7 @@ $.fn.combodate.defaults = {
     smartDays: false // whether days in combo depend on selected month: 31, 30, 28
 };
 
-$('input.combodate').combodate();
+window.onload = function() {
+      var combodates = $('input.combodate');
+          combodates.combodate();
+};
