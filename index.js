@@ -490,3 +490,5 @@ $.fn.combodate.defaults = {
     roundTime: true, // whether to round minutes and seconds if step > 1
     smartDays: false // whether days in combo depend on selected month: 31, 30, 28
 };
+
+$('input.combodate').combodate();
