@@ -9,5 +9,5 @@
         "component/jquery": "*",
         "moment/moment": "2.8.3"
     },
-    "repository": "triscel/component-combodate"
+    "repository": "supermarktonline/component-combodate"
 }
